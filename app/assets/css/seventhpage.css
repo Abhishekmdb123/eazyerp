@@ -1,0 +1,212 @@
+.seventhpage {
+    position: absolute;
+    background: white;
+    width: 1900px;
+    height: 500px;
+    top: 2750px;
+    left: 0px;
+}
+
+.eazyerp{
+    /* What students are saying about Qollabb */
+
+position: absolute;
+width: 672px;
+height: 44px;
+left: 20%;
+top: 10%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 44px;
+
+
+}
+
+.eazyerpsmallt{
+    /* Lorem ipsum dolor sit amet, consectetur */
+
+position: absolute;
+width: 400px;
+height: 20px;
+left: 20%;
+top: 20%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+
+/* Dull TOne */
+color: #7A86A1;
+
+
+}
+
+.eazyerpst1{
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 20%;
+top: 30%;
+opacity: 0.5;
+
+}
+
+.eazyerpst2{
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 35%;
+top: 30%;
+
+}
+
+.eazyerpst3{
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 50%;
+    top: 30%;
+    opacity: 0.5;
+    
+    }
+
+.eazyerpimg{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background: url("../images/SeventhPageImg.png"), #D9D9D9;
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    }
+
+.eazyerptext{
+    /* Abhshek Kumar */
+
+position: absolute;
+width: 180px;
+height: 26px;
+color: black;
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+
+}
+
+.eazyerpsmall{
+    /* Intern at Whatsapp */
+
+position: absolute;
+width: 110px;
+height: 16px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+/* Dull TOne */
+color: black;
+
+
+}
+
+.eazyerpst1>.eazyerpimg{
+left: 20%;
+top: 25%;
+}
+
+.eazyerpst2>.eazyerpimg{
+    left: 35%;
+    top: 25%;
+    }
+
+.eazyerpst3>.eazyerpimg{
+    left: 50%;
+    top: 25%;
+    }
+
+.eazyerpst1>.eazyerptext{
+left: 55%;
+top: 25%;
+}
+
+.eazyerpst2>.eazyerptext{
+left: 70%;
+top: 25%;
+}
+
+.eazyerpst3>.eazyerptext{
+left: 85%;
+top: 25%;
+}
+
+.eazyerpst1>.eazyerpsmall{
+left: 55%;
+top: 38%;
+}
+
+.eazyerpst2>.eazyerpsmall{
+left: 70%;
+top: 38%;
+}
+
+.eazyerpst3>.eazyerpsmall{
+left: 85%;
+top: 38%;
+}
+
+.eazyerpmsg{
+    /* Rectangle 12 */
+
+position: absolute;
+width: 992.2px;
+height: 299.02px;
+left: 20%;
+top: 60%;
+
+background: #0b4968;
+border-radius: 13px;
+
+}
+
+.eazyerpmsgtxt{
+    /* Rectangle 12 */
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit viverra laoreet ante vel arcu aliquam. Pellentesque sodales sit proin sagittis. Ut amet senectus orci id at viverra diam. Turpis nec pellentesque magna nunc gravida conva. */
+
+position: absolute;
+width: 644.88px;
+height: 104px;
+left: 20%;
+top: 40%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.eazyerpmsgicon{
+position: absolute;
+left: 50%;
+top: 20%;
+}

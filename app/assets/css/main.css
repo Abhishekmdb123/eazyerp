@@ -1,0 +1,277 @@
+
+.firstpage {
+    position: absolute;
+    background: url(../images/ERPImage.jpeg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    width: 2000px;
+    height: 900px;
+    top: 0px;
+    left: 0px;
+}
+
+.logo{
+    position: absolute;
+    width: 150px;
+    height: 129px;
+    left: 5%;
+    top: 0%;
+    background: url(../images/LogoAbhishek.png);
+    background-size: 150px 129px;
+    background-repeat: no-repeat;
+    border: none;
+}
+
+.logo h1 {
+    position: absolute;
+width: 502.85px;
+height: 129px;
+left: 160px;
+top: 20px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 22.46px;
+line-height: 64px;
+/* or 116% */
+
+/* Dull Black */
+color: #EBEBEB;
+
+}
+.container h1 {
+
+    position: absolute;
+width: 502.85px;
+height: 129px;
+left: 283.11px;
+top: 200.37px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 55.46px;
+line-height: 64px;
+/* or 116% */
+
+/* Dull Black */
+color: #EBEBEB;
+
+}
+
+.container h5 {
+    /* work on industry projects gain employibility and explore internships and jobs. */
+
+position: absolute;
+width: 320.6px;
+height: 59px;
+left: 283.11px;
+top: 350.29px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 15.46px;
+line-height: 29px;
+/* or 191% */
+
+/* Dull Black */
+color: #EBEBEB;
+}
+
+img { border-style: none; }
+
+.graduation{
+
+    position: absolute;
+    width: 1000px;
+    height: 800px;
+    left: 900px;
+    top: 0px;    
+    background: url(../images/ERPImage.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1000px 800px;
+    border:none
+}
+
+.explore {
+    /* Rectangle 2 */
+
+position: absolute;
+width: 156.62px;
+height: 46.22px;
+left: 283.11px;
+top: 430.44px;
+
+/* Dull Black */
+background: #EBEBEB;
+box-shadow: 0px 17px 24px 3px rgba(97, 73, 205, 0.17);
+border-radius: 7px;
+color:rgb(62, 32, 144);
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 15.46px;
+padding: 0px;
+text-align: center;
+cursor: pointer;
+  display: inline-block;
+  /* your image here */
+}
+
+.firstInfo{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 1056.62px;
+height: 75.22px;
+left: 300px;
+top: 880.44px;
+
+background: #FFFEFE;
+box-shadow: 0px 26px 32px -21px rgba(0, 0, 0, 0.12);
+border-radius: 9px;
+
+}
+
+.opportunities{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 270.62px;
+height:50.22px;
+top: 10%;
+left: 5%;
+/* margin: -35px 0 0 -35px; */
+
+/* Purple */
+background: #90b4c5;
+border-radius: 10px;
+color: black;
+text-align: center;
+
+/* Explore Opportunities */
+font-family: 'Urbanist';
+font-style: normal;
+/* identical to box height */
+}
+
+.connect{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 270.62px;
+height:50.22px;
+top: 10%;
+left: 35%;
+/* margin: -35px 0 0 -35px; */
+
+/* Purple */
+background:#90b4c5;
+border-radius: 10px;
+color: black;
+text-align: center;
+
+/* Explore Opportunities */
+font-family: 'Urbanist';
+font-style: normal;
+/* identical to box height */
+
+
+
+}
+
+.sign{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 270.62px;
+height:50.22px;
+top: 10%;
+left: 65%;
+/* margin: -35px 0 0 -35px; */
+
+/* Purple */
+background: #90b4c5;
+border-radius: 10px;
+color: black;
+text-align: center;
+
+/* Explore Opportunities */
+font-family: 'Urbanist';
+font-style: normal;
+/* identical to box height */
+
+
+
+}
+
+.header{
+position: absolute;
+color:white;
+width: 1056.62px;
+height: 100.22px;
+left: 1200px;
+top: 25px;
+}
+
+.companies{
+position: absolute;
+top: 0%;
+left: 0%;
+}
+
+.students{
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    }
+
+.college{
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    }
+
+.about{
+    position: absolute;
+    top: 0%;
+    left: 37%;
+    }
+
+.registeration{
+    position: absolute;
+    color:white;
+    width: 700.62px;
+    height: 65.22px;
+    left: 1400px;
+    top: 50px;
+    }
+.signin{
+    background: none;
+    border: none;
+}
+
+.register{
+    color:rgb(84, 67, 180);
+    /* box-shadow: 0px 26px 32px -21px rgba(0, 0, 0, 0.12); */
+    border-radius: 9px;
+    width: 100px;
+}
+/* .form-control[disabled], .form-control[readonly], .fieldset[disabled], .form-control {
+    cursor: pointer;
+    background-color: rgb(7, 29, 27);
+} */
+
+/* your image here
+.done-true {
+position: absolute;
+left: 21.14%;
+right: -66.57%;
+top: -40.05%;
+bottom: 14.17%;
+
+background: url(images/GraduationPic.png);
+} */
+

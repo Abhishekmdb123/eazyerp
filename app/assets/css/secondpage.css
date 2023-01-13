@@ -1,0 +1,189 @@
+.secondpage {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 1900px;
+    height: 500px;
+    top: 1100px;
+    left: 0px;
+}
+
+.working{
+    position: absolute;
+    width: 502.85px;
+    height: 129px;
+    left: 700.11px;
+    top: 0px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25.46px;
+    line-height: 64px;
+    letter-spacing: 0.133333px;
+    /* or 116% */
+    
+    /* Dull Black */
+    color: #14658d;  
+}
+
+.dot {
+    height: 95px;
+    width: 95px;
+    background-color: rgb(81, 68, 192);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .steps{
+    position: absolute;
+    width: 1500.85px;
+    height: 129px;
+    left: 300px;
+    top: 200.37px;
+    color:rgb(81, 68, 192);
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.46px;
+  }
+
+  .first{
+    position: absolute;
+    width: 200px;
+    height:129.22px;
+    top: 10%;
+    left: 0%; 
+  }
+
+  .second{
+    position: absolute;
+    width: 200px;
+    height:129.22px;
+    top: 10%;
+    left: 25%; 
+  }
+
+  .third{
+    position: absolute;
+    width: 200px;
+    height:129.22px;
+    top: 10%;
+    left: 50%; 
+  }
+
+  .fourth{
+    position: absolute;
+    width: 200px;
+    height:129.22px;
+    top: 10%;
+    left: 75%; 
+  }
+
+  .text{
+    position: absolute;
+  color:rgb(81, 68, 192);
+  top: 60%;
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17.46px;
+}
+
+  .smalltext{
+      position: absolute;
+    color:grey;
+    top: 100%;
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.46px;
+  }
+
+  .example{
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    left: 1100px;
+    top: 175px;
+    background: url("../images/ThinkingImage.jpeg");
+    background-repeat: no-repeat;
+    background-size: 450px 450px;
+    /* color:rgb(81, 68, 192);;
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17.46px; */
+  }
+
+  .real{
+    position: absolute;
+    width: 500.85px;
+    height: 300px;
+    left: 300px;
+    top: 175px;
+    color:black;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 0.133333px;
+    /* Don’t settle for the */
+  }
+
+  .realsmall{
+    position: absolute;
+    width: 500.85px;
+    height: 500px;
+    left: 300px;
+    top: 325px;
+    color:grey;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .signup{
+    position: absolute;
+    left: 300px;
+    top: 520px;
+    background-color: #6192a8;
+    color:rgb(255, 255, 255);
+    box-shadow: 0px 26px 32px -21px rgba(0, 0, 0, 0.12);
+    border-radius: 9px;
+    height: 60px;
+    width: 200px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 10px;
+    
+  }
+
+  .arrow {
+    border:solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+  .arrow2 {
+    border: solid rgb(81, 68, 192);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+

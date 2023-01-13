@@ -1,0 +1,17 @@
+{
+    "name": "eazyerp",
+    "description": "A design to solve eazyerp challenge",
+    "keywords": [
+        "AngularJS",
+        "template",
+        "angular",
+        "seed",
+        "johnpapa",
+        "styleguide",
+        "node",
+        "express"
+    ],
+    "repository": "https://github.com/Abhishekmdb123/qoollabb",
+    "success_url": "/",
+    "addons": []
+}

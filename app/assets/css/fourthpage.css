@@ -1,0 +1,229 @@
+.fourthpage {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 1900px;
+    height: 990px;
+    top: 3500px;
+    left: 0px;
+}
+
+.exploreindustry{
+    /* Explore Industry Projects */
+
+position: absolute;
+width: 700px;
+height: 44px;
+left: 20%;
+top: 0%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 40px;
+letter-spacing: 0.133333px;
+
+}
+
+.industrysmall{
+    /* Lorem ipsum dolor sit amet, consectetur */
+
+position: absolute;
+width: 298px;
+height: 20px;
+left: 20%;
+top: 7%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+
+/* Dull TOne */
+color: #7A86A1;
+
+
+}
+
+.design1{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 20%;
+top: 15%;
+
+/* Purple */
+background: #6149CD;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+.design2{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 40%;
+top: 15%;
+
+/* Purple */
+background: white;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+.design3{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 60%;
+top: 15%;
+
+/* Purple */
+background: white;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+.design4{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 80%;
+top: 15%;
+
+/* Purple */
+background: white;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+.design5{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 20%;
+top: 40%;
+
+/* Purple */
+background: white;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+.design6{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 40%;
+top: 40%;
+
+/* Purple */
+background: white;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+.design7{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 60%;
+top: 40%;
+
+/* Purple */
+background: white;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+.design8{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 239.77px;
+height: 144.28px;
+left: 80%;
+top: 40%;
+
+/* Purple */
+background: white;
+box-shadow: 0px 45.3701px 46.4767px -19.9186px rgba(97, 73, 205, 0.13);
+border-radius: 9.95929px;
+}
+
+.designtext{
+    /* Design & Development */
+
+position: absolute;
+width: 113px;
+height: 46px;
+left: 20%;
+top: 20%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 18.812px;
+line-height: 23px;
+
+/* Dull Black */
+color: black;
+
+
+}
+
+.design1>.designtext{
+   color: white 
+}
+
+.designsmall{
+    /* 150 jobs available */
+
+position: absolute;
+width: 127px;
+height: 20px;
+left: 20%;
+top: 60%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 16.5988px;
+line-height: 20px;
+/* identical to box height */
+
+/* Dull Black */
+color: black;
+
+
+}
+
+.design1>.designsmall{
+    color: white 
+ }
+
+ .industrycategory{
+    position: absolute;
+    width: 298px;
+    height: 20px;
+    left: 85%;
+    top: 5%;
+    /* All Category */
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+
+/* Dull TOne */
+color: #7A86A1;
+ }

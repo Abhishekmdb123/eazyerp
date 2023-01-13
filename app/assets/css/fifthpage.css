@@ -1,0 +1,449 @@
+.fifthpage {
+    position: absolute;
+    background: rgb(228, 225, 225);
+    width: 1900px;
+    height: 1000px;
+    top: 4100px;
+    left: 0px;
+}
+
+.internshiptext{
+    /* Internships by top employers */
+
+position: absolute;
+width: 480px;
+height: 44px;
+left: 20%;
+top: 5%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+letter-spacing: 0.133333px;
+
+}
+
+.internshipsmall{
+    /* Lorem ipsum dolor sit amet, consectetur */
+
+position: absolute;
+width: 298px;
+height: 20px;
+left: 20%;
+top: 10%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+
+/* Dull TOne */
+color: #7A86A1;
+
+
+}
+
+.internshipbox1{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 319.79px;
+height: 334.26px;
+left: 20%;
+top: 15%;
+
+background: #FFFFFF;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.internshipbox2{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 319.79px;
+height: 334.26px;
+left: 40%;
+top: 15%;
+
+background: #FFFFFF;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.internshipbox3{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 319.79px;
+height: 334.26px;
+left: 60%;
+top: 15%;
+
+background: #FFFFFF;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.internshipbox4{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 319.79px;
+height: 334.26px;
+left: 20%;
+top: 50%;
+
+background: #FFFFFF;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.internshipbox5{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 319.79px;
+height: 334.26px;
+left: 40%;
+top: 50%;
+
+background: #FFFFFF;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.internshipbox6{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 319.79px;
+height: 334.26px;
+left: 60%;
+top: 50%;
+
+background: #FFFFFF;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+
+.internshipboxbigtext{
+    /* Product Designer by Whatsapp */
+
+position: absolute;
+width: 233px;
+height: 20px;
+
+left: 5%;
+top: 20%;
+color: black;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16.8205px;
+line-height: 20px;
+}
+
+.lastupdate{
+    /* 2 Days ago */
+
+position: absolute;
+width: 61px;
+height: 15px;
+right: 10%;
+top: 10%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.0842px;
+line-height: 15px;
+/* identical to box height */
+
+/* Dull TOne */
+color: #7A86A1;
+}
+
+.location{
+    /* Noida, UP, India */
+
+position: absolute;
+width: 84.53px;
+height: 13px;
+left: 5%;
+top: 26%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 10.8838px;
+line-height: 13px;
+/* identical to box height */
+
+/* Dull TOne */
+color: #7A86A1;
+}
+
+.stipend{
+    /* Stipend: 2,000/Month */
+
+position: absolute;
+width: 102px;
+height: 13px;
+left: 5%;
+top: 35%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 11.4472px;
+line-height: 13px;
+/* identical to box height */
+
+/* Dull TOne */
+color: #7A86A1;
+}
+
+.tenure{
+    /* Tenure : 3 Months */
+
+position: absolute;
+width: 100px;
+height: 13px;
+left: 45%;
+top: 35%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 11.4472px;
+line-height: 13px;
+/* identical to box height */
+
+/* Dull TOne */
+color: #7A86A1;
+
+
+}
+
+.line{
+    /* Vector 29 */
+
+position: absolute;
+width: 0px;
+height: 13.22px;
+left: 40%;
+top: 35%;
+
+/* Dull TOne */
+background: #7A86A1;
+opacity: 0.2;
+border: 1.16007px solid #000000;
+
+}
+
+.seek{
+    /* Seeking Students from : Anywhere */
+
+position: absolute;
+width: 160px;
+height: 13px;
+left: 5%;
+top: 43%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 9.4472px;
+line-height: 13px;
+/* identical to box height */
+
+/* Dull TOne */
+color: #7A86A1;
+
+
+}
+.tag1{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 20px;
+left: 5%;
+top: 50%;
+
+background: rgb(226, 222, 222);
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 9.4472px;
+line-height: 13px;
+text-align: center;
+vertical-align: middle;
+color: grey;
+padding: 2px;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.tag2{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 50px;
+height: 20px;
+left: 40%;
+top: 50%;
+
+background: rgb(226, 222, 222);
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 9.4472px;
+line-height: 13px;
+text-align: center;
+vertical-align: middle;
+color: grey;
+padding: 2px;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.tag3{
+    /* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 50px;
+height: 20px;
+left: 60%;
+top: 50%;
+
+background: rgb(226, 222, 222);
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10.4472px;
+line-height: 13px;
+text-align: center;
+vertical-align: middle;
+color: grey;
+padding: 2px;
+/* Dull TOne */
+border: 0.410867px solid #7A86A1;
+border-radius: 6.92607px;
+
+}
+.descriptiontxt{
+    /* Rectangle 10 */
+
+/* IBM India india is hiring MERN Developer Intern. The location of the stated Internship is Noida, U.P. Following is the job description of the same... */
+
+position: absolute;
+width: 244.92px;
+height: 64px;
+left: 5%;
+top: 60%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12.9385px;
+line-height: 16px;
+
+/* Dull TOne */
+color: #7A86A1;
+
+}
+
+.internshipapply{
+    /* Rectangle 9 */
+
+position: absolute;
+width: 291.94px;
+height: 38.48px;
+left: 5%;
+top: 85%;
+
+
+/* Purple */
+background: #6149CD;
+border-radius: 5.34742px;
+
+color: white;
+text-align: center;
+
+}
+
+.whatsapp{
+
+position: absolute;
+border-radius: 50%;
+width: 44.37px;
+height: 44.37px;
+background:rgb(53, 51, 51);
+left: 5%;
+top: 3%;
+}
+
+.whatsappicon{
+    position: absolute;
+    left:25%;
+    top: 20%;
+    color: white;
+    text-align:center;
+    font-size:24px;
+}
+
+.internshipsee{
+    /* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 195.22px;
+height: 54.92px;
+left: 66.5%;
+top: 7%;
+
+background: #FFFFFF;
+color:#6149CD;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18.4472px;
+line-height: 13px;
+text-align: center;
+/* Purple DUll */
+border: 1px solid rgba(97, 73, 205, 0.05);
+
+}

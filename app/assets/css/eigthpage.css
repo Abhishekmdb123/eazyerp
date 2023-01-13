@@ -1,0 +1,120 @@
+.eigthpage {
+    position: absolute;
+    background: white;
+    width: 1900px;
+    height: 500px;
+    top: 3500px;
+    left: 0px;
+}
+
+.decision{
+    /* Decision makers in companies and universities around the globe trust us */
+
+position: absolute;
+width: 787.74px;
+height: 88px;
+left: 25%;
+top: 5%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 44px;
+text-align: center;
+
+
+}
+
+.decisionsmall{
+   /* Hundreds of fast-growing companies from tech startups, to SMEs, to Fortune 500 */
+
+position: absolute;
+width: 603px;
+height: 20px;
+left: 30%;
+top: 25%;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+
+/* Dull TOne */
+color: #7A86A1;
+
+ 
+}
+
+.decisionimg1{
+    /* image 5 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 25%;
+top: 35%;
+
+background: url(../images/Page9Img1.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+
+}
+
+.decisionimg2{
+    /* image 5 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 35%;
+top: 38%;
+
+background: url(../images/Page9Img2.png);
+background-repeat: no-repeat;
+background-size: 80px 80px;
+
+}
+.decisionimg3{
+    /* image 5 */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 45%;
+top: 35%;
+
+background: url(../images/Page9Img3.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+
+}
+.decisionimg4{
+    /* image 5 */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 56.5%;
+top: 40%;
+
+background: url(../images/Page9Img4.png);
+background-repeat: no-repeat;
+background-size: 60px 60px;
+
+}
+.decisionimg5{
+    /* image 5 */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 65%;
+top: 35%;
+
+background: url(../images/Page9Img5.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+
+}

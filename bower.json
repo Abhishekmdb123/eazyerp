@@ -1,0 +1,31 @@
+{
+    "name": "eazyerp",
+    "description": "A design to solve eazyerp challenge",
+    "keywords": [
+        "AngularJS",
+        "angular",
+        "template",
+        "seed",
+        "styleguide",
+        "node",
+        "express"
+    ],
+    "authors": [
+        "Abhishek Kumar"
+    ],
+    "homepage": "https://github.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Abhishekmdb123/qoollabb.git"
+    },
+    "ignore": [],
+    "dependencies": {
+        "angular": "^1.5.7",
+        "angular-animate": "^1.5.7",
+        "angular-mocks": "^1.5.7",
+        "angular-ui-router": "^0.3.1",
+        "bootstrap": "^3.3.6",
+        "jquery-ui": "^1.11.4"
+    },
+    "private": false
+}
